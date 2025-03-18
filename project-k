@@ -1,0 +1,24 @@
+[INFO] ----------------------------------------------------------------------------
+[INFO] Using following parameters for creating project from Archetype: maven-archetype-quickstart:1.5
+[INFO] ----------------------------------------------------------------------------
+[INFO] Parameter: groupId, Value: org.apache
+[INFO] Parameter: artifactId, Value: apache-projectk
+[INFO] Parameter: version, Value: 1.0-SNAPSHOT
+[INFO] Parameter: package, Value: .war
+[INFO] Parameter: packageInPathFormat, Value: /war
+[INFO] Parameter: junitVersion, Value: 5.11.0
+[INFO] Parameter: package, Value: .war
+[INFO] Parameter: groupId, Value: org.apache
+[INFO] Parameter: artifactId, Value: apache-projectk
+[INFO] Parameter: javaCompilerVersion, Value: 17
+[INFO] Parameter: version, Value: 1.0-SNAPSHOT
+[WARNING] Don't override file /opt/project/apache-projectk/src/main/java/war
+[WARNING] Don't override file /opt/project/apache-projectk/src/test/java/war
+[WARNING] CP Don't override file /opt/project/apache-projectk/.mvn
+[INFO] Project created from Archetype in dir: /opt/project/apache-projectk
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  04:29 min
+[INFO] Finished at: 2025-03-18T00:40:24Z
+[INFO] ------------------------------------------------------------------------
